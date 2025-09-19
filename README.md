@@ -62,7 +62,7 @@ Codalyze/
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/codalyze.git
+git clone https://github.com/Sk-Sharief/codalyze.git
 cd codalyze
 
 2️⃣ Install dependencies
