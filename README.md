@@ -102,9 +102,9 @@ If you’d like to improve Codalyze, please fork the repo and create a pull requ
 
 👥 Team
 
-Sharief SK – Project Lead 🚀
+Sharief SK – Project Lead 🚀[https://github.com/Sk-Sharief]
 
-Sai Madhurya K – Co Developer
+Sai Madhurya K – Co Developer👩‍💻[https://github.com/saimadhurya28]
 
 📜 License
 
